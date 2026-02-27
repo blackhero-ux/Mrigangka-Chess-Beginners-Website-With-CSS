@@ -1,0 +1,20 @@
+body{
+    background-image: url(Chess\ Background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+section{
+    color: rgb(30, 202, 24);
+    font-family: "Press Start 2P";
+}
+h2{
+    color: blue;
+}
+b{
+    color: blueviolet;
+}
+h1{
+    color: crimson;
+}
